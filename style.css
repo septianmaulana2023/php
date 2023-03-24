@@ -1,0 +1,8 @@
+body{
+	margin:0;
+}
+
+header{
+	min-height:50px;
+	background:yellow;
+}
